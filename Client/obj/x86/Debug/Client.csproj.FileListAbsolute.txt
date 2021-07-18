@@ -1,0 +1,14 @@
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\bin\Debug\Client.exe
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\bin\Debug\Client.pdb
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\Client.exe
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\Client.pdb
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\obj\x86\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\bin\Debug\Client.exe
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\bin\Debug\Client.pdb
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\obj\x86\Debug\Client.csproj.CopyComplete
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\obj\x86\Debug\Client.exe
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\obj\x86\Debug\Client.pdb
+C:\Users\Mathe\Downloads\ConsoleApplication2\Client\obj\x86\Debug\Client.csproj.AssemblyReference.cache
