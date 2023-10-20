@@ -1,10 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea
-.vs
-Client/obj
-KeyExchangeServer/obj
 # Rider ignored files
 /modules.xml
 /.idea.ConsoleApplication2.iml
