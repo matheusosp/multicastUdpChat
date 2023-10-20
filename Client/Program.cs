@@ -27,6 +27,8 @@ var thread1 = new Thread(() =>
         var payload = JsonConvert.SerializeObject(model);
         var encryptedMessage = AesCriptografia.EncryptMessage(payload, symmetricKey);
         udpclient.Send(encryptedMessage, encryptedMessage.Length, remoteEndPoint);
+        // var buffer = Encoding.Unicode.GetBytes(payload.ToCharArray());
+        // udpclient.Send(buffer, buffer.Length, remoteEndPoint);
         Console.SetCursorPosition(55, Console.CursorTop);
     }
 });
