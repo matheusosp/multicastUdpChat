@@ -5,8 +5,6 @@ using System.Text;
 using ConsoleApp1;
 using Newtonsoft.Json;
 
-var keyExchangeServerIP = "127.0.0.1";
-var keyExchangeServerPort = 12345;
 var username = string.Empty;
 
 Console.WriteLine("Nome de usuário: ");
@@ -51,7 +49,7 @@ return;
 
 static (string?, int, byte[]) ExchangeWithServer()
 {
-    using var client = new TcpClient("127.0.0.1", 12345);
+    using var client = new TcpClient("192.168.1.21", 12345);
     using var stream = client.GetStream();
     
     var (publicKey, privateKey) = GetPublicKeyAndPrivateKey();
