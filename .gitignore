@@ -1,1 +1,7 @@
 ﻿/.vs/
+/KeyExchangeServer/obj/
+/KeyExchangeServer/bin/
+/Client/bin/
+/Client/obj/
+/.idea/
+/packages/
